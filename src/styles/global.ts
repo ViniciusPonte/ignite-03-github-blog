@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased;
     }
 
-    body, input-security, textarea, button {
+    body, input-security, textarea, button, h1, span, p {
         font-family: 'Nunito', sans-serif;
         font-weight: 400;
         font-size: 1rem;
